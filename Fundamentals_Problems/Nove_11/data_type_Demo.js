@@ -1,0 +1,10 @@
+var name = "Boby Kuamr";
+var age = 23;
+var marks = 100;
+var company = "Google";
+var salary = 190000;
+console.log("Name=",name);
+console.log("Age=",age);
+console.log("Marks=", marks);
+console.log("Company=",company);
+console.log("Salary=",salary);
